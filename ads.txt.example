@@ -1,0 +1,4 @@
+# Rename this file to "ads.txt" and place it at the ROOT of your domain ONLY after your AdSense account is approved.
+# Replace pub-XXXXXXXXXXXXXXXX with YOUR publisher id (the number after "ca-"), exactly as shown in AdSense -> Sites -> ads.txt.
+# DO NOT publish this file with the placeholder id.
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
